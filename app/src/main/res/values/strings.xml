@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">RecipeApp</string>
+    <string name="chicken_kiev">Chicken Kiev</string>
+    <string name="fish_curry">Fish Curry</string>
+    <string name="healthy_veggies">Healthy Veggies</string>
+    <string name="italian_pasta">Italian Pasta</string>
+    <string name="lobster_salad">Lobster Salad</string>
+    <string name="salmone_alla_ticinese">Salmone alla ticinese</string>
+    <string name="sweet_and_sour_basa_bake">Sweet and sour basa bake</string>
+    <string name="recipe_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vulputate consectetur lacus at auctor. Ut ac volutpat mauris. Duis quis augue sed mauris vulputate hendrerit quis at elit. Etiam laoreet nibh a malesuada convallis. Ut justo dolor, bibendum id semper eu, vestibulum vel ligula. Proin eu mollis lectus, eget interdum sem. Phasellus suscipit lobortis nisl sit amet aliquet. Nunc lobortis ultrices tortor, sed porttitor ante gravida ac. In hac habitasse platea dictumst. Curabitur magna augue, laoreet quis lacus nec, consectetur congue tortor. Quisque ut massa faucibus, suscipit ante in, fringilla mauris. Aliquam eu egestas justo. Fusce semper ligula tortor, vel laoreet nunc blandit a. Nulla facilisi. Suspendisse fringilla scelerisque lorem sed hendrerit.</string>
 </resources>
